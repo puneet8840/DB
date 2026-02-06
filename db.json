@@ -30,25 +30,6 @@
     {"id":28,"firstname":"Kavya","lastname":"Trivedi","email":"kavya.trivedi28@example.com","phonenumber":"9000000028"},
     {"id":29,"firstname":"Manav","lastname":"Chopra","email":"manav.chopra29@example.com","phonenumber":"9000000029"},
     {"id":30,"firstname":"Diya","lastname":"Verma","email":"diya.verma30@example.com","phonenumber":"9000000030"},
-    {"id":31,"firstname":"Yash","lastname":"Sharma","email":"yash.sharma31@example.com","phonenumber":"9000000031"},
-    {"id":32,"firstname":"Aanya","lastname":"Gupta","email":"aanya.gupta32@example.com","phonenumber":"9000000032"},
-    {"id":33,"firstname":"Rohan","lastname":"Patel","email":"rohan.patel33@example.com","phonenumber":"9000000033"},
-    {"id":34,"firstname":"Sakshi","lastname":"Mehta","email":"sakshi.mehta34@example.com","phonenumber":"9000000034"},
-    {"id":35,"firstname":"Aryan","lastname":"Joshi","email":"aryan.joshi35@example.com","phonenumber":"9000000035"},
-    {"id":36,"firstname":"Ira","lastname":"Rao","email":"ira.rao36@example.com","phonenumber":"9000000036"},
-    {"id":37,"firstname":"Ansh","lastname":"Malhotra","email":"ansh.malhotra37@example.com","phonenumber":"9000000037"},
-    {"id":38,"firstname":"Sofia","lastname":"Chopra","email":"sofia.chopra38@example.com","phonenumber":"9000000038"},
-    {"id":39,"firstname":"Vivaan","lastname":"Singhal","email":"vivaan.singhal39@example.com","phonenumber":"9000000039"},
-    {"id":40,"firstname":"Tara","lastname":"Bansal","email":"tara.bansal40@example.com","phonenumber":"9000000040"},
-    {"id":41,"firstname":"Krishna","lastname":"Kapoor","email":"krishna.kapoor41@example.com","phonenumber":"9000000041"},
-    {"id":42,"firstname":"Nikki","lastname":"Agarwal","email":"nikki.agarwal42@example.com","phonenumber":"9000000042"},
-    {"id":43,"firstname":"Arya","lastname":"Nair","email":"arya.nair43@example.com","phonenumber":"9000000043"},
-    {"id":44,"firstname":"Kabir","lastname":"Choudhary","email":"kabir.choudhary44@example.com","phonenumber":"9000000044"},
-    {"id":45,"firstname":"Rhea","lastname":"Rathi","email":"rhea.rathi45@example.com","phonenumber":"9000000045"},
-    {"id":46,"firstname":"Shaurya","lastname":"Tiwari","email":"shaurya.tiwari46@example.com","phonenumber":"9000000046"},
-    {"id":47,"firstname":"Mira","lastname":"Khandelwal","email":"mira.khandelwal47@example.com","phonenumber":"9000000047"},
-    {"id":48,"firstname":"Neil","lastname":"Chatterjee","email":"neil.chatterjee48@example.com","phonenumber":"9000000048"},
-    {"id":49,"firstname":"Kiara","lastname":"Bhatia","email":"kiara.bhatia49@example.com","phonenumber":"9000000049"},
-    {"id":50,"firstname":"Arnav","lastname":"Bhatt","email":"arnav.bhatt50@example.com","phonenumber":"9000000050"}
+  
   ]
 }
